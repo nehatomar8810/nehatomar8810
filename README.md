@@ -7,6 +7,7 @@ Welcome to my GitHub! I’m a full-stack AI enthusiast who loves building intell
 - **Tools & Cloud:** SQLite, Node.js, Cloud APIs, Azure, SMTP, Ollama   
 
 ## 🔗 Find Me
-- LinkedIn: [Neha Tomar](https://www.linkedin.com/in/neha-tomar/)  
+- LinkedIn: [Neha Tomar](https://www.linkedin.com/in/neha-tomar/)
+- Gmail: nt8070975@gmail.com
 
 
