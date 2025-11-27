@@ -1,6 +1,5 @@
 # Hi there, I'm Neha Tomar 👋
-
-Welcome to my GitHub! I’m a full-stack AI enthusiast who loves building intelligent systems, multi-agent workflows, and automation tools that actually work (most of the time 😄).
+Welcome to my GitHub! I’m a full-stack AI enthusiast who loves building intelligent systems, multi-agent workflows, and automation tools that actually work.
 
 ## 💡 Skills & Tech
 - **Languages & Frameworks:** Python, JavaScript, React, TypeScript, Flask, FlutterFlow  
